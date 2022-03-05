@@ -1,4 +1,3 @@
-```python
 # Modüller
 import time
 import sys
@@ -1131,5 +1130,5 @@ else:  # Çıkış
     print("\nÇıkılıyor...")
     time.sleep(2)
     sys.exit()
-```
+
 
